@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclamdown" format="2">
+  <advance width="280"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <component base="exclam" yScale="-1" xOffset="10" yOffset="520"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

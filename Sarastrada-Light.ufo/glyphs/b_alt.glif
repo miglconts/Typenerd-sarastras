@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b_alt" format="2">
+  <advance width="613"/>
+  <anchor x="325" y="-10" name="bottom"/>
+  <anchor x="280" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="336" y="-10" type="curve" smooth="yes"/>
+      <point x="468" y="-10"/>
+      <point x="523" y="86"/>
+      <point x="523" y="260" type="curve" smooth="yes"/>
+      <point x="523" y="405"/>
+      <point x="468" y="530"/>
+      <point x="336" y="530" type="curve" smooth="yes"/>
+      <point x="200" y="530"/>
+      <point x="146" y="416"/>
+      <point x="146" y="286" type="curve"/>
+      <point x="146" y="288"/>
+      <point x="142" y="268"/>
+      <point x="142" y="260" type="curve"/>
+      <point x="142" y="96"/>
+      <point x="200" y="-10"/>
+    </contour>
+    <contour>
+      <point x="157" y="264" type="line"/>
+      <point x="157" y="695" type="line"/>
+      <point x="142" y="695" type="line"/>
+      <point x="142" y="260" type="line"/>
+    </contour>
+    <contour>
+      <point x="336" y="40" type="curve" smooth="yes"/>
+      <point x="179" y="40"/>
+      <point x="157" y="142"/>
+      <point x="157" y="260" type="curve" smooth="yes"/>
+      <point x="157" y="378"/>
+      <point x="179" y="480"/>
+      <point x="336" y="480" type="curve" smooth="yes"/>
+      <point x="476" y="480"/>
+      <point x="508" y="395"/>
+      <point x="508" y="260" type="curve" smooth="yes"/>
+      <point x="508" y="125"/>
+      <point x="476" y="40"/>
+    </contour>
+    <component base="serif_sup_der" xOffset="-25" yOffset="230"/>
+    <component base="serif_sup_izq" xOffset="5" yOffset="230"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

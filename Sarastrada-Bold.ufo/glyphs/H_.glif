@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="642"/>
+  <unicode hex="0048"/>
+  <anchor x="321" y="0" name="bottom"/>
+  <anchor x="321" y="340" name="center"/>
+  <anchor x="321" y="680" name="top"/>
+  <anchor x="30" y="680" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="450" y="55" type="line"/>
+      <point x="510" y="55" type="line"/>
+      <point x="510" y="567" type="line"/>
+      <point x="450" y="567" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="55" type="line"/>
+      <point x="192" y="55" type="line"/>
+      <point x="192" y="567" type="line"/>
+      <point x="132" y="567" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="304" type="line"/>
+      <point x="504" y="304" type="line"/>
+      <point x="504" y="364" type="line"/>
+      <point x="157" y="364" type="line"/>
+    </contour>
+    <component base="serif_sup_izq" xOffset="10" yOffset="160"/>
+    <component base="serif_sup_der" xOffset="10" yOffset="160"/>
+    <component base="serif_inf_der" xOffset="10"/>
+    <component base="serif_inf_izq" xOffset="10"/>
+    <component base="serif_sup_izq" xOffset="328" yOffset="160"/>
+    <component base="serif_sup_der" xOffset="328" yOffset="160"/>
+    <component base="serif_inf_der" xOffset="328"/>
+    <component base="serif_inf_izq" xOffset="328"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCCCCCPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

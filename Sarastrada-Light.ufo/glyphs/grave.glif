@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance height="980" width="196"/>
+  <unicode hex="0060"/>
+  <anchor x="157" y="520" name="_top"/>
+  <outline>
+    <component base="acute" xScale="-1" xOffset="196"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

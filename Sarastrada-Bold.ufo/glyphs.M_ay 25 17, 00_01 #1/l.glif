@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l" format="2">
+  <advance width="304"/>
+  <unicode hex="006C"/>
+  <anchor x="152" y="0" name="bottom"/>
+  <anchor x="152" y="260" name="center"/>
+  <anchor x="152" y="520" name="top"/>
+  <anchor x="284" y="520" name="topright"/>
+  <outline>
+    <contour>
+      <point x="122" y="55" type="line"/>
+      <point x="182" y="55" type="line"/>
+      <point x="182" y="547" type="line"/>
+      <point x="122" y="547" type="line"/>
+    </contour>
+    <component base="serif_inf_der"/>
+    <component base="serif_inf_izq"/>
+    <component base="serif_sup_der" yOffset="230"/>
+    <component base="serif_sup_izq" yOffset="230"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

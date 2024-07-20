@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k" format="2">
+  <advance width="643"/>
+  <unicode hex="006B"/>
+  <anchor x="316" y="0" name="bottom"/>
+  <anchor x="266" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="547" y="115" type="line"/>
+      <point x="547" y="186" type="line"/>
+      <point x="172" y="426" type="line"/>
+      <point x="172" y="355" type="line"/>
+      <point x="392" y="220" type="line"/>
+      <point x="472" y="197" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="0" type="line"/>
+      <point x="431" y="0"/>
+      <point x="519" y="29"/>
+      <point x="519" y="116" type="curve"/>
+      <point x="451" y="116" type="line"/>
+      <point x="451" y="29"/>
+      <point x="533" y="0"/>
+      <point x="613" y="0" type="curve"/>
+      <point x="613" y="200" type="line"/>
+      <point x="349" y="200" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="217" type="line"/>
+      <point x="192" y="217" type="line"/>
+      <point x="192" y="629" type="line"/>
+      <point x="132" y="629" type="line"/>
+    </contour>
+    <contour>
+      <point x="353" y="240" type="line"/>
+      <point x="424" y="240" type="line"/>
+      <point x="524" y="332" type="line"/>
+      <point x="463" y="332" type="line"/>
+      <point x="422" y="303" type="line"/>
+    </contour>
+    <contour>
+      <point x="349" y="332" type="line"/>
+      <point x="613" y="332" type="line"/>
+      <point x="613" y="532" type="line"/>
+      <point x="538" y="532"/>
+      <point x="451" y="507"/>
+      <point x="451" y="416" type="curve"/>
+      <point x="511" y="416" type="line"/>
+      <point x="511" y="507"/>
+      <point x="421" y="532"/>
+      <point x="349" y="532" type="curve"/>
+    </contour>
+    <component base="serif_sup_der" xOffset="10" yOffset="230"/>
+    <component base="serif_sup_izq" xOffset="10" yOffset="230"/>
+    <component base="serif_inf_der" xOffset="10"/>
+    <component base="serif_inf_izq" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCPPPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

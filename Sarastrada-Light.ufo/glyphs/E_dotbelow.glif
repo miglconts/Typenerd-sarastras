@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edotbelow" format="2">
+  <advance height="980" width="615"/>
+  <unicode hex="1EB8"/>
+  <anchor x="364" y="-217" name="bottom"/>
+  <anchor x="538" y="0" name="ogonek"/>
+  <anchor x="352" y="680" name="top"/>
+  <anchor x="140" y="681" name="topleft"/>
+  <outline>
+    <component base="E"/>
+    <component base="dotbelowcomb" xOffset="301"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

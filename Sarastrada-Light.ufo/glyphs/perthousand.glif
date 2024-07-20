@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="perthousand" format="2">
+  <advance width="1281"/>
+  <unicode hex="2030"/>
+  <outline>
+    <contour>
+      <point x="1066" y="0" type="curve" smooth="yes"/>
+      <point x="1181" y="0"/>
+      <point x="1228" y="116"/>
+      <point x="1228" y="232" type="curve" smooth="yes"/>
+      <point x="1228" y="355"/>
+      <point x="1181" y="463"/>
+      <point x="1065" y="463" type="curve" smooth="yes"/>
+      <point x="944" y="463"/>
+      <point x="902" y="348"/>
+      <point x="902" y="232" type="curve" smooth="yes"/>
+      <point x="902" y="106"/>
+      <point x="945" y="0"/>
+    </contour>
+    <contour>
+      <point x="1076" y="48" type="curve" smooth="yes"/>
+      <point x="934" y="48"/>
+      <point x="919" y="150"/>
+      <point x="919" y="266" type="curve" smooth="yes"/>
+      <point x="919" y="348"/>
+      <point x="970" y="413"/>
+      <point x="1050" y="413" type="curve" smooth="yes"/>
+      <point x="1193" y="413"/>
+      <point x="1211" y="312"/>
+      <point x="1211" y="209" type="curve" smooth="yes"/>
+      <point x="1211" y="116"/>
+      <point x="1161" y="48"/>
+    </contour>
+    <component base="percent" xOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

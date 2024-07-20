@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="y" format="2">
+  <advance width="644"/>
+  <unicode hex="0079"/>
+  <anchor x="322" y="0" name="bottom"/>
+  <anchor x="322" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="303" y="-230" type="curve" smooth="yes"/>
+      <point x="407" y="-229"/>
+      <point x="512" y="-152"/>
+      <point x="512" y="28" type="curve" smooth="yes"/>
+      <point x="512" y="182" type="line"/>
+      <point x="452" y="182" type="line"/>
+      <point x="452" y="160" type="line"/>
+      <point x="452" y="-1"/>
+      <point x="403" y="-49"/>
+      <point x="294" y="-49" type="curve" smooth="yes"/>
+      <point x="185" y="-49"/>
+      <point x="158" y="-1"/>
+      <point x="158" y="24" type="curve"/>
+      <point x="97" y="24" type="line"/>
+      <point x="97" y="-147"/>
+      <point x="155" y="-231"/>
+    </contour>
+    <contour>
+      <point x="132" y="242" type="line"/>
+      <point x="192" y="242" type="line"/>
+      <point x="192" y="300" type="line"/>
+      <point x="132" y="300" type="line"/>
+    </contour>
+    <contour>
+      <point x="512" y="89" type="line"/>
+      <point x="512" y="287" type="line"/>
+      <point x="452" y="287" type="line"/>
+      <point x="452" y="129" type="line"/>
+    </contour>
+    <component base="serif_sup_izq" xOffset="10"/>
+    <component base="serif_sup_der" xOffset="10"/>
+    <component base="serif_sup_izq" xOffset="330"/>
+    <component base="serif_sup_der" xOffset="330"/>
+    <component base="ataque_n" xScale="-1" yScale="-1" xOffset="634" yOffset="520"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCCPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

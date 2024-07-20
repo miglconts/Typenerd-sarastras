@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minus" format="2">
+  <advance width="600"/>
+  <unicode hex="2212"/>
+  <outline>
+    <contour>
+      <point x="32" y="203" type="curve"/>
+      <point x="530" y="203" type="line"/>
+      <point x="530" y="281"/>
+      <point x="492" y="313"/>
+      <point x="456" y="313" type="curve"/>
+      <point x="456" y="273" type="line"/>
+      <point x="492" y="273"/>
+      <point x="530" y="305"/>
+      <point x="530" y="383" type="curve"/>
+      <point x="32" y="383" type="line"/>
+      <point x="32" y="305"/>
+      <point x="69" y="273"/>
+      <point x="105" y="273" type="curve"/>
+      <point x="105" y="313" type="line"/>
+      <point x="69" y="313"/>
+      <point x="32" y="281"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pi.sc" format="2">
+  <advance width="636"/>
+  <outline>
+    <contour>
+      <point x="177" y="380" type="line"/>
+      <point x="455" y="380" type="line"/>
+      <point x="336" y="580" type="line"/>
+      <point x="296" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="134" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="194" y="350" type="line"/>
+      <point x="134" y="350" type="line"/>
+    </contour>
+    <contour>
+      <point x="438" y="140" type="line"/>
+      <point x="498" y="140" type="line"/>
+      <point x="498" y="350" type="line"/>
+      <point x="438" y="350" type="line"/>
+    </contour>
+    <component base="serif_sup_izq" xOffset="316" yOffset="60"/>
+    <component base="serif_sup_der" xOffset="316" yOffset="60"/>
+    <component base="serif_sup_izq" xOffset="12" yOffset="60"/>
+    <component base="serif_sup_der" xOffset="12" yOffset="60"/>
+    <component base="serif_inf_der" xOffset="317"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCCPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

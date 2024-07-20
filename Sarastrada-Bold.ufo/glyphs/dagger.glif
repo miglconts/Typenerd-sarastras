@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dagger" format="2">
+  <advance width="600"/>
+  <unicode hex="2020"/>
+  <outline>
+    <contour>
+      <point x="247" y="-191" type="line"/>
+      <point x="307" y="-190" type="line"/>
+      <point x="346" y="538" type="line"/>
+      <point x="416" y="731" type="line"/>
+      <point x="295" y="731"/>
+      <point x="248" y="678"/>
+      <point x="247" y="626" type="curve"/>
+      <point x="307" y="625" type="line"/>
+      <point x="307" y="677"/>
+      <point x="261" y="731"/>
+      <point x="142" y="731" type="curve"/>
+      <point x="211" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="47" y="362" type="curve"/>
+      <point x="305" y="492" type="line"/>
+      <point x="305" y="507" type="line"/>
+      <point x="47" y="637" type="line"/>
+      <point x="47" y="517"/>
+      <point x="101" y="471"/>
+      <point x="153" y="471" type="curve"/>
+      <point x="153" y="531" type="line"/>
+      <point x="100" y="530"/>
+      <point x="47" y="483"/>
+    </contour>
+    <contour>
+      <point x="510" y="363" type="line"/>
+      <point x="510" y="483"/>
+      <point x="457" y="530"/>
+      <point x="404" y="530" type="curve"/>
+      <point x="404" y="471" type="line"/>
+      <point x="457" y="471"/>
+      <point x="510" y="517"/>
+      <point x="510" y="636" type="curve"/>
+      <point x="253" y="507" type="line"/>
+      <point x="254" y="492" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

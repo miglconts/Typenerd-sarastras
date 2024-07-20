@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="734"/>
+  <unicode hex="0126"/>
+  <anchor x="380" y="0" name="bottom"/>
+  <anchor x="380" y="340" name="center"/>
+  <anchor x="377" y="651" name="top"/>
+  <anchor x="89" y="680" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="103" y="468" type="line"/>
+      <point x="633" y="468" type="line"/>
+      <point x="633" y="493" type="line"/>
+      <point x="103" y="493" type="line"/>
+    </contour>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

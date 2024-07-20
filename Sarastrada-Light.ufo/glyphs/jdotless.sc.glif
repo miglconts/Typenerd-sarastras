@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotless.sc" format="2">
+  <advance height="980" width="435"/>
+  <anchor x="213" y="0" name="bottom"/>
+  <anchor x="208" y="580" name="top"/>
+  <outline>
+    <component base="J.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

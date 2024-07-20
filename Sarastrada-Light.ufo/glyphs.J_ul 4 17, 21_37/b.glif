@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="b" format="2">
+  <advance width="463"/>
+  <unicode hex="0062"/>
+  <anchor x="230" y="0" name="bottom"/>
+  <anchor x="230" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="50" y="-10" type="line"/>
+      <point x="104" y="-10"/>
+      <point x="107" y="32"/>
+      <point x="107" y="95" type="curve"/>
+      <point x="107" y="142" type="line"/>
+      <point x="92" y="142" type="line"/>
+      <point x="92" y="83"/>
+      <point x="85" y="47"/>
+      <point x="50" y="47" type="curve"/>
+    </contour>
+    <contour>
+      <point x="92" y="123" type="line"/>
+      <point x="107" y="123" type="line"/>
+      <point x="107" y="695" type="line"/>
+      <point x="92" y="695" type="line"/>
+    </contour>
+    <component base="serif_sup_der" xOffset="-75" yOffset="230"/>
+    <component base="serif_sup_izq" xOffset="-45" yOffset="230"/>
+    <component base="aro_min" xOffset="76"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

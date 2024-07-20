@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb" format="2">
+  <advance height="980"/>
+  <unicode hex="0301"/>
+  <anchor x="32" y="520" name="_top"/>
+  <anchor x="32" y="654" name="top"/>
+  <outline>
+    <component base="acute"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>196</integer>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

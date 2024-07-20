@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb" format="2">
+  <advance height="980"/>
+  <unicode hex="030C"/>
+  <anchor x="150" y="520" name="_top"/>
+  <anchor x="150" y="632" name="top"/>
+  <outline>
+    <component base="caron"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>300</integer>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

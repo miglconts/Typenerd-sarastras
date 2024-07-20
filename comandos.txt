@@ -1,0 +1,28 @@
+Input arguments (flags):
+  The following arguments are mutually exclusive (pick only one):
+
+  -g GLYPHS, --glyphs-path GLYPHS
+                        Path to .glyphs source file
+  -u UFO [UFO ...], --ufo-paths UFO [UFO ...]
+                        One or more paths to UFO files
+  -m DESIGNSPACE, --mm-designspace DESIGNSPACE
+                        Path to .designspace file
+
+Input arguments (positonal):
+  Alternatively, guess source format from filename extension
+
+  INPUTS                Either one *.designspace or *.glyphs file, or one or more *.ufo
+
+
+## para designspace
+###exportar variable
+fontmake -m designspace -o variable
+
+###exportar otf y ttf solo masters
+fontmake -m designspace 
+
+###exportar otf y ttf con instancias 
+fontmake -m designspace -i
+
+### Exportar en un directorio especifico, con -u (ufos) puedes poner varios ufos
+fontmake -u Sarastrada-Light.ufo Sarastrada-Bold.ufo --output-dir Betafonts       

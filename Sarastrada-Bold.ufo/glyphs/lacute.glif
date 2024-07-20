@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute" format="2">
+  <advance height="980" width="324"/>
+  <unicode hex="013A"/>
+  <anchor x="162" y="0" name="bottom"/>
+  <anchor x="162" y="370" name="center"/>
+  <anchor x="162" y="727" name="top"/>
+  <anchor x="289" y="750" name="topright"/>
+  <outline>
+    <component base="l"/>
+    <component base="acute" xOffset="99" yOffset="206"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

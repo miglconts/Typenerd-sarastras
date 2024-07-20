@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T.sc" format="2">
+  <advance width="550"/>
+  <anchor x="274" y="0" name="bottom"/>
+  <anchor x="272" y="340" name="center"/>
+  <anchor x="274" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="70" y="499" type="line"/>
+      <point x="85" y="499" type="line"/>
+      <point x="85" y="558" type="line"/>
+      <point x="70" y="558" type="line"/>
+    </contour>
+    <contour>
+      <point x="267" y="70" type="line"/>
+      <point x="282" y="70" type="line"/>
+      <point x="282" y="520" type="line"/>
+      <point x="267" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="530" type="line"/>
+      <point x="127" y="530" type="line"/>
+      <point x="127" y="533" type="line" smooth="yes"/>
+      <point x="127" y="559"/>
+      <point x="104" y="580"/>
+      <point x="70" y="580" type="curve"/>
+    </contour>
+    <contour>
+      <point x="267" y="477" type="curve"/>
+      <point x="282" y="477" type="line"/>
+      <point x="282" y="522"/>
+      <point x="293" y="530"/>
+      <point x="323" y="530" type="curve"/>
+      <point x="282" y="548" type="line"/>
+      <point x="267" y="548" type="line"/>
+      <point x="225" y="530" type="line"/>
+      <point x="255" y="530"/>
+      <point x="267" y="522"/>
+    </contour>
+    <contour>
+      <point x="112" y="530" type="line"/>
+      <point x="170" y="530" type="line"/>
+      <point x="170" y="580" type="line"/>
+      <point x="135" y="580"/>
+      <point x="112" y="559"/>
+      <point x="112" y="533" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="170" y="530" type="line"/>
+      <point x="380" y="530" type="line"/>
+      <point x="380" y="580" type="line"/>
+      <point x="170" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="380" y="530" type="line"/>
+      <point x="438" y="530" type="line"/>
+      <point x="438" y="533" type="line" smooth="yes"/>
+      <point x="438" y="559"/>
+      <point x="413" y="580"/>
+      <point x="380" y="580" type="curve"/>
+    </contour>
+    <contour>
+      <point x="465" y="499" type="line"/>
+      <point x="480" y="499" type="line"/>
+      <point x="480" y="558" type="line"/>
+      <point x="465" y="558" type="line"/>
+    </contour>
+    <contour>
+      <point x="423" y="530" type="line"/>
+      <point x="480" y="530" type="line"/>
+      <point x="480" y="580" type="line"/>
+      <point x="446" y="580"/>
+      <point x="423" y="559"/>
+      <point x="423" y="533" type="curve" smooth="yes"/>
+    </contour>
+    <component base="serif_inf_der" xOffset="127"/>
+    <component base="serif_inf_izq" xOffset="127"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPPPPPPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

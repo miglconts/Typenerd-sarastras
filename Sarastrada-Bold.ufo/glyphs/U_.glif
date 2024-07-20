@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U" format="2">
+  <advance width="675"/>
+  <unicode hex="0055"/>
+  <anchor x="337" y="0" name="bottom"/>
+  <anchor x="372" y="-9" name="ogonek"/>
+  <anchor x="337" y="680" name="top"/>
+  <anchor x="665" y="680" name="topright"/>
+  <outline>
+    <contour>
+      <point x="337" y="-10" type="curve" smooth="yes"/>
+      <point x="441" y="-10"/>
+      <point x="543" y="28"/>
+      <point x="543" y="218" type="curve" smooth="yes"/>
+      <point x="543" y="343"/>
+      <point x="543" y="545"/>
+      <point x="543" y="558" type="curve"/>
+      <point x="483" y="558" type="line"/>
+      <point x="483" y="546"/>
+      <point x="483" y="344"/>
+      <point x="483" y="278" type="curve" smooth="yes"/>
+      <point x="483" y="216"/>
+      <point x="460" y="188"/>
+      <point x="337" y="188" type="curve" smooth="yes"/>
+      <point x="214" y="188"/>
+      <point x="193" y="216"/>
+      <point x="192" y="278" type="curve" smooth="yes"/>
+      <point x="191" y="344"/>
+      <point x="191" y="546"/>
+      <point x="191" y="558" type="curve"/>
+      <point x="131" y="558" type="line"/>
+      <point x="131" y="545"/>
+      <point x="131" y="343"/>
+      <point x="131" y="218" type="curve" smooth="yes"/>
+      <point x="131" y="28"/>
+      <point x="233" y="-10"/>
+    </contour>
+    <component base="serif_sup_izq" xOffset="9" yOffset="160"/>
+    <component base="serif_sup_der" xOffset="9" yOffset="160"/>
+    <component base="serif_sup_izq" xOffset="361" yOffset="160"/>
+    <component base="serif_sup_der" xOffset="361" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

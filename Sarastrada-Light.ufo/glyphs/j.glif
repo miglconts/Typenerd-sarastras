@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j" format="2">
+  <advance width="264"/>
+  <unicode hex="006A"/>
+  <outline>
+    <contour>
+      <point x="85" y="-230" type="curve"/>
+      <point x="139" y="-230"/>
+      <point x="142" y="-177"/>
+      <point x="142" y="-125" type="curve"/>
+      <point x="142" y="-78" type="line"/>
+      <point x="127" y="-78" type="line"/>
+      <point x="127" y="-137"/>
+      <point x="120" y="-173"/>
+      <point x="85" y="-173" type="curve"/>
+      <point x="85" y="-192"/>
+      <point x="85" y="-211"/>
+    </contour>
+    <contour>
+      <point x="127" y="-96" type="line"/>
+      <point x="142" y="-96" type="line"/>
+      <point x="142" y="435" type="line"/>
+      <point x="127" y="435" type="line"/>
+    </contour>
+    <component base="serif_sup_izq" xOffset="-10"/>
+    <component base="serif_sup_der" xOffset="-40"/>
+    <component base="dotaccent" xOffset="74"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

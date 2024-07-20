@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="micro" format="2">
+  <advance width="624"/>
+  <unicode hex="00B5"/>
+  <anchor x="312" y="0" name="bottom"/>
+  <anchor x="562" y="10" name="ogonek"/>
+  <anchor x="312" y="520" name="top"/>
+  <anchor x="604" y="520" name="topright"/>
+  <outline>
+    <contour>
+      <point x="312" y="-20" type="curve" smooth="yes"/>
+      <point x="472" y="-20"/>
+      <point x="502" y="144"/>
+      <point x="502" y="242" type="curve"/>
+      <point x="442" y="242" type="line"/>
+      <point x="442" y="204"/>
+      <point x="391" y="180"/>
+      <point x="312" y="180" type="curve" smooth="yes"/>
+      <point x="230" y="180"/>
+      <point x="182" y="196"/>
+      <point x="182" y="242" type="curve"/>
+      <point x="122" y="242" type="line"/>
+      <point x="122" y="220" type="line" smooth="yes"/>
+      <point x="122" y="23"/>
+      <point x="218" y="-20"/>
+    </contour>
+    <contour>
+      <point x="92" y="-230" type="line"/>
+      <point x="212" y="-230" type="line"/>
+      <point x="182" y="24" type="line"/>
+      <point x="182" y="299" type="line"/>
+      <point x="122" y="299" type="line"/>
+      <point x="122" y="26" type="line"/>
+    </contour>
+    <contour>
+      <point x="442" y="242" type="line"/>
+      <point x="502" y="242" type="line"/>
+      <point x="502" y="309" type="line"/>
+      <point x="442" y="309" type="line"/>
+    </contour>
+    <component base="serif_sup_izq"/>
+    <component base="serif_sup_der"/>
+    <component base="serif_sup_izq" xOffset="320"/>
+    <component base="serif_sup_der" xOffset="320"/>
+    <component base="serif_inf_der" xOffset="320"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCCPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

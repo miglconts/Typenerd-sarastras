@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Obreve" format="2">
+  <advance height="980" width="560"/>
+  <unicode hex="014E"/>
+  <anchor x="280" y="0" name="bottom"/>
+  <anchor x="280" y="429" name="center"/>
+  <anchor x="313" y="11" name="ogonek"/>
+  <anchor x="280" y="875" name="top"/>
+  <anchor x="249" y="680" name="topleft"/>
+  <anchor x="328" y="690" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="brevecomb" xOffset="95" yOffset="170"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

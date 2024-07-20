@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic.sc" format="2">
+  <advance height="980" width="707"/>
+  <anchor x="362" y="0" name="bottom"/>
+  <anchor x="327" y="650" name="top"/>
+  <outline>
+    <component base="K.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwa" format="2">
+  <advance height="980" width="472"/>
+  <unicode hex="0259"/>
+  <anchor x="234" y="520" name="bottom"/>
+  <anchor x="170" y="520" name="ogonek"/>
+  <anchor x="234" y="0" name="top"/>
+  <outline>
+    <component base="e" xScale="-1" yScale="-1" xOffset="472" yOffset="520"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>e</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>e</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

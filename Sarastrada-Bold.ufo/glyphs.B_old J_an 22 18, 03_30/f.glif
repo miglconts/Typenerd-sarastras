@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f" format="2">
+  <advance width="375"/>
+  <unicode hex="0066"/>
+  <anchor x="193" y="0" name="bottom"/>
+  <anchor x="193" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="132" y="155" type="line"/>
+      <point x="192" y="155" type="line"/>
+      <point x="192" y="502" type="line"/>
+      <point x="132" y="502" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="329" type="line"/>
+      <point x="310" y="329" type="line"/>
+      <point x="310" y="520" type="line"/>
+      <point x="40" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="382" y="536" type="curve"/>
+      <point x="442" y="536" type="line"/>
+      <point x="442" y="701"/>
+      <point x="400" y="762"/>
+      <point x="287" y="762" type="curve" smooth="yes"/>
+      <point x="174" y="762"/>
+      <point x="132" y="701"/>
+      <point x="132" y="506" type="curve" smooth="yes"/>
+      <point x="132" y="502" type="line"/>
+      <point x="192" y="502" type="line"/>
+      <point x="192" y="506" type="line"/>
+      <point x="192" y="550"/>
+      <point x="221" y="561"/>
+      <point x="287" y="561" type="curve" smooth="yes"/>
+      <point x="353" y="561"/>
+      <point x="382" y="550"/>
+    </contour>
+    <component base="serif_inf_der" xOffset="10" yOffset="-10"/>
+    <component base="serif_inf_izq" xOffset="10" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scaron.sc" format="2">
+  <advance height="980" width="582"/>
+  <anchor x="284" y="-10" name="bottom"/>
+  <anchor x="307" y="692" name="top"/>
+  <outline>
+    <component base="S.sc"/>
+    <component base="caroncomb" xOffset="157" yOffset="60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

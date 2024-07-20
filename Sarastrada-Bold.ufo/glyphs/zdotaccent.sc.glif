@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zdotaccent.sc" format="2">
+  <advance height="980" width="493"/>
+  <anchor x="277" y="0" name="bottom"/>
+  <anchor x="259" y="810" name="top"/>
+  <outline>
+    <component base="Z.sc"/>
+    <component base="dotaccentcomb" xOffset="139" yOffset="60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

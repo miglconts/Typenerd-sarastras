@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="serif_inf_izq" format="2">
+  <advance width="304"/>
+  <outline>
+    <contour>
+      <point x="182" y="284" type="curve"/>
+      <point x="182" y="284"/>
+      <point x="122" y="284"/>
+      <point x="122" y="284" type="curve" smooth="yes"/>
+      <point x="122" y="129"/>
+      <point x="106" y="118"/>
+      <point x="20" y="118" type="curve"/>
+      <point x="20" y="-1" type="line"/>
+      <point x="135" y="-1"/>
+      <point x="182" y="54"/>
+      <point x="182" y="107" type="curve" smooth="yes"/>
+      <point x="182" y="166"/>
+      <point x="182" y="284"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

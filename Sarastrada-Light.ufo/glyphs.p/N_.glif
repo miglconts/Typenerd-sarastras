@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="706"/>
+  <unicode hex="004E"/>
+  <anchor x="381" y="0" name="bottom"/>
+  <anchor x="387" y="653" name="top"/>
+  <outline>
+    <contour>
+      <point x="621" y="0" type="line"/>
+      <point x="621" y="51" type="line"/>
+      <point x="617" y="51"/>
+      <point x="491" y="51"/>
+      <point x="487" y="51" type="curve"/>
+      <point x="221" y="680" type="line"/>
+      <point x="86" y="680" type="line"/>
+      <point x="86" y="630" type="line"/>
+      <point x="213" y="630" type="line"/>
+      <point x="484" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="128" y="60" type="line"/>
+      <point x="143" y="60" type="line"/>
+      <point x="143" y="640" type="line"/>
+      <point x="128" y="640" type="line"/>
+    </contour>
+    <contour>
+      <point x="564" y="23" type="line"/>
+      <point x="579" y="23" type="line"/>
+      <point x="579" y="595" type="line"/>
+      <point x="564" y="595" type="line"/>
+    </contour>
+    <component base="serif_inf_der" xOffset="-12"/>
+    <component base="serif_inf_izq" xOffset="-13"/>
+    <component base="serif_sup_izq" xOffset="427" yOffset="160"/>
+    <component base="serif_sup_der" xOffset="397" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

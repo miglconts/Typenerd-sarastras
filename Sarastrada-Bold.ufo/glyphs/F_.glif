@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F" format="2">
+  <advance width="543"/>
+  <unicode hex="0046"/>
+  <anchor x="222" y="0" name="bottom"/>
+  <anchor x="222" y="680" name="top"/>
+  <outline>
+    <contour>
+      <point x="162" y="480" type="line"/>
+      <point x="513" y="480" type="line"/>
+      <point x="513" y="680" type="line"/>
+      <point x="294" y="680" type="line"/>
+      <point x="179" y="680"/>
+      <point x="162" y="625"/>
+      <point x="162" y="522" type="curve"/>
+    </contour>
+    <contour>
+      <point x="132" y="166" type="line"/>
+      <point x="192" y="166" type="line"/>
+      <point x="192" y="507" type="line"/>
+      <point x="132" y="507" type="line"/>
+    </contour>
+    <contour>
+      <point x="157" y="294" type="line"/>
+      <point x="393" y="294" type="line"/>
+      <point x="393" y="354" type="line"/>
+      <point x="157" y="354" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="424" type="curve"/>
+      <point x="192" y="424" type="line"/>
+      <point x="192" y="469"/>
+      <point x="208" y="480"/>
+      <point x="294" y="480" type="curve"/>
+      <point x="192" y="538" type="line"/>
+      <point x="132" y="538" type="line"/>
+      <point x="30" y="480" type="line"/>
+      <point x="116" y="480"/>
+      <point x="132" y="469"/>
+    </contour>
+    <contour>
+      <point x="30" y="480" type="line"/>
+      <point x="192" y="480" type="line"/>
+      <point x="192" y="572" type="line"/>
+      <point x="192" y="625"/>
+      <point x="145" y="680"/>
+      <point x="30" y="680" type="curve"/>
+    </contour>
+    <contour>
+      <point x="453" y="430" type="line"/>
+      <point x="513" y="430" type="line"/>
+      <point x="513" y="508" type="line"/>
+      <point x="453" y="508" type="line"/>
+    </contour>
+    <component base="serif_inf_der" xOffset="10"/>
+    <component base="serif_inf_izq" xOffset="10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPPPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

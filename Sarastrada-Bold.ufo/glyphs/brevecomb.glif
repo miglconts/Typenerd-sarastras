@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb" format="2">
+  <advance height="980"/>
+  <unicode hex="0306"/>
+  <anchor x="185" y="520" name="_top"/>
+  <anchor x="185" y="705" name="top"/>
+  <outline>
+    <component base="breve"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>370</integer>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

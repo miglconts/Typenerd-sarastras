@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ij.sc" format="2">
+  <advance height="980" width="835"/>
+  <anchor x="200" y="-10" name="bottom_1"/>
+  <anchor x="613" y="0" name="bottom_2"/>
+  <anchor x="260" y="13" name="ogonek"/>
+  <anchor x="200" y="580" name="top_1"/>
+  <anchor x="608" y="580" name="top_2"/>
+  <anchor x="100" y="680" name="topleft"/>
+  <outline>
+    <component base="I.sc"/>
+    <component base="J.sc" xOffset="400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

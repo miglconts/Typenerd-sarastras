@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokeshortcomb" format="2">
+  <unicode hex="0335"/>
+  <anchor x="125" y="366" name="_center"/>
+  <outline>
+    <contour>
+      <point x="19" y="329" type="line"/>
+      <point x="240" y="330" type="line"/>
+      <point x="240" y="396" type="line"/>
+      <point x="19" y="395" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>261</integer>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

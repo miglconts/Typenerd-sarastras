@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Germandbls" format="2">
+  <advance width="632"/>
+  <unicode hex="1E9E"/>
+  <outline>
+    <contour>
+      <point x="371" y="328" type="curve"/>
+      <point x="371" y="348" type="line"/>
+      <point x="228" y="347"/>
+      <point x="211" y="380"/>
+      <point x="211" y="420" type="curve"/>
+      <point x="542" y="548" type="line"/>
+      <point x="542" y="596"/>
+      <point x="502" y="691"/>
+      <point x="329" y="691" type="curve" smooth="yes"/>
+      <point x="139" y="691"/>
+      <point x="92" y="590"/>
+      <point x="92" y="478" type="curve" smooth="yes"/>
+      <point x="92" y="439" type="line"/>
+      <point x="107" y="439" type="line"/>
+      <point x="107" y="590"/>
+      <point x="133" y="641"/>
+      <point x="334" y="641" type="curve" smooth="yes"/>
+      <point x="502" y="641"/>
+      <point x="527" y="577"/>
+      <point x="527" y="561" type="curve"/>
+      <point x="196" y="432" type="line"/>
+      <point x="196" y="365"/>
+      <point x="221" y="328"/>
+    </contour>
+    <contour>
+      <point x="92" y="65" type="line"/>
+      <point x="107" y="65" type="line"/>
+      <point x="107" y="462" type="line"/>
+      <point x="92" y="462" type="line"/>
+    </contour>
+    <contour>
+      <point x="358" y="-10" type="curve" smooth="yes"/>
+      <point x="498" y="-10"/>
+      <point x="562" y="50"/>
+      <point x="562" y="169" type="curve" smooth="yes"/>
+      <point x="562" y="292"/>
+      <point x="513" y="348"/>
+      <point x="371" y="348" type="curve"/>
+      <point x="371" y="328" type="line"/>
+      <point x="501" y="328"/>
+      <point x="542" y="275"/>
+      <point x="542" y="169" type="curve" smooth="yes"/>
+      <point x="542" y="62"/>
+      <point x="496" y="40"/>
+      <point x="360" y="40" type="curve" smooth="yes"/>
+      <point x="222" y="40"/>
+      <point x="190" y="72"/>
+      <point x="190" y="101" type="curve"/>
+      <point x="180" y="101" type="line"/>
+      <point x="180" y="50"/>
+      <point x="221" y="-10"/>
+    </contour>
+    <component base="serif_inf_der" xOffset="-48"/>
+    <component base="serif_inf_izq" xOffset="-48"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>f</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>s</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

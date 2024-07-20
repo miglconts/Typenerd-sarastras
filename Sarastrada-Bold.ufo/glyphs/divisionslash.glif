@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divisionslash" format="2">
+  <advance width="436"/>
+  <unicode hex="2215"/>
+  <outline>
+    <contour>
+      <point x="0" y="-109" type="line"/>
+      <point x="110" y="-109" type="line"/>
+      <point x="436" y="850" type="line"/>
+      <point x="326" y="850" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

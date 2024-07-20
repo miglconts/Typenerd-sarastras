@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y.sc" format="2">
+  <advance width="640"/>
+  <guideline x="266" y="260" angle="0"/>
+  <anchor x="320" y="0" name="bottom"/>
+  <anchor x="320" y="580" name="top"/>
+  <anchor x="40" y="680" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="343" y="380" type="line"/>
+      <point x="607" y="380" type="line"/>
+      <point x="607" y="580" type="line"/>
+      <point x="527" y="580"/>
+      <point x="445" y="551"/>
+      <point x="445" y="464" type="curve"/>
+      <point x="513" y="464" type="line"/>
+      <point x="513" y="551"/>
+      <point x="425" y="580"/>
+      <point x="343" y="580" type="curve"/>
+    </contour>
+    <contour>
+      <point x="320" y="226" type="line"/>
+      <point x="320" y="301" type="line"/>
+      <point x="240" y="362" type="line"/>
+      <point x="202" y="381" type="line"/>
+      <point x="127" y="381" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="146" type="line"/>
+      <point x="350" y="146" type="line"/>
+      <point x="350" y="286" type="line"/>
+      <point x="290" y="286" type="line"/>
+    </contour>
+    <contour>
+      <point x="33" y="380" type="line"/>
+      <point x="297" y="380" type="line"/>
+      <point x="297" y="580" type="line"/>
+      <point x="215" y="580"/>
+      <point x="127" y="551"/>
+      <point x="127" y="464" type="curve"/>
+      <point x="195" y="464" type="line"/>
+      <point x="195" y="551"/>
+      <point x="113" y="580"/>
+      <point x="33" y="580" type="curve"/>
+    </contour>
+    <contour>
+      <point x="320" y="226" type="line"/>
+      <point x="513" y="381" type="line"/>
+      <point x="438" y="381" type="line"/>
+      <point x="400" y="362" type="line"/>
+      <point x="320" y="301" type="line"/>
+    </contour>
+    <component base="serif_inf_der" xOffset="168" yOffset="1"/>
+    <component base="serif_inf_izq" xOffset="168" yOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

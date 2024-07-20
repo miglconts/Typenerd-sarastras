@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotbelowcomb" format="2">
+  <advance height="980"/>
+  <unicode hex="0323"/>
+  <anchor x="120" y="0" name="_bottom"/>
+  <anchor x="120" y="-250" name="bottom"/>
+  <outline>
+    <component base="dotaccent"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>240</integer>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

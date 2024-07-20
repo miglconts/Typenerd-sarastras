@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bullet" format="2">
+  <advance width="150"/>
+  <unicode hex="2022"/>
+  <outline>
+    <component base="period" xScale="1.8" yScale="1.8" xOffset="-60" yOffset="226"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

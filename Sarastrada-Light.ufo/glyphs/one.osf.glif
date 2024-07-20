@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.osf" format="2">
+  <advance width="269"/>
+  <outline>
+    <contour>
+      <point x="85" y="463" type="line"/>
+      <point x="142" y="463" type="line"/>
+      <point x="142" y="520" type="line"/>
+      <point x="109" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="34" type="line"/>
+      <point x="142" y="34" type="line"/>
+      <point x="142" y="480" type="line"/>
+      <point x="127" y="480" type="line"/>
+    </contour>
+    <component base="serif_inf_der" xOffset="-13"/>
+    <component base="serif_inf_izq" xOffset="-13"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

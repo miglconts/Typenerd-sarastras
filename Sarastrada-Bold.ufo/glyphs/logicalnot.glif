@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalnot" format="2">
+  <advance width="559"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="30" y="213" type="curve"/>
+      <point x="528" y="213" type="line"/>
+      <point x="528" y="393" type="line"/>
+      <point x="30" y="393" type="line"/>
+      <point x="30" y="315"/>
+      <point x="67" y="283"/>
+      <point x="103" y="283" type="curve"/>
+      <point x="103" y="323" type="line"/>
+      <point x="67" y="323"/>
+      <point x="30" y="291"/>
+    </contour>
+    <contour>
+      <point x="469" y="75" type="line"/>
+      <point x="529" y="75" type="line"/>
+      <point x="529" y="347" type="line"/>
+      <point x="469" y="347" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

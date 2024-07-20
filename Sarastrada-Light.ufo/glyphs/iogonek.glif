@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iogonek" format="2">
+  <advance height="980" width="269"/>
+  <unicode hex="012F"/>
+  <anchor x="138" y="0" name="bottom"/>
+  <anchor x="183" y="-1" name="ogonek"/>
+  <anchor x="138" y="520" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="ogonek" xOffset="79" yOffset="9"/>
+    <component base="dotaccent" xOffset="71"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

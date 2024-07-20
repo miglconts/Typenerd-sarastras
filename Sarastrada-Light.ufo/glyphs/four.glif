@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance width="550"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="70" y="216" type="line"/>
+      <point x="413" y="689" type="line"/>
+      <point x="413" y="718" type="line"/>
+      <point x="70" y="245" type="line"/>
+    </contour>
+    <contour>
+      <point x="70" y="195" type="line"/>
+      <point x="428" y="195" type="line"/>
+      <point x="428" y="245" type="line"/>
+      <point x="70" y="245" type="line"/>
+      <point x="70" y="244" type="line"/>
+    </contour>
+    <contour>
+      <point x="470" y="195" type="curve"/>
+      <point x="470" y="245" type="line"/>
+      <point x="413" y="245" type="line"/>
+      <point x="413" y="244" type="line"/>
+      <point x="413" y="219"/>
+      <point x="436" y="195"/>
+    </contour>
+    <contour>
+      <point x="413" y="34" type="line"/>
+      <point x="428" y="34" type="line"/>
+      <point x="428" y="718" type="line"/>
+      <point x="413" y="718" type="line"/>
+    </contour>
+    <component base="serif_inf_der" xOffset="273"/>
+    <component base="serif_inf_izq" xOffset="273"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

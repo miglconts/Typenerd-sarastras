@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u" format="2">
+  <advance width="644"/>
+  <unicode hex="0075"/>
+  <anchor x="322" y="0" name="bottom"/>
+  <anchor x="614" y="-2" name="ogonek"/>
+  <anchor x="322" y="520" name="top"/>
+  <anchor x="614" y="520" name="topright"/>
+  <outline>
+    <contour>
+      <point x="614" y="0" type="curve"/>
+      <point x="614" y="200" type="line"/>
+      <point x="528" y="200"/>
+      <point x="512" y="211"/>
+      <point x="512" y="246" type="curve"/>
+      <point x="452" y="246" type="line"/>
+      <point x="433" y="194" type="line"/>
+      <point x="433" y="68"/>
+      <point x="460" y="0"/>
+    </contour>
+    <contour>
+      <point x="132" y="228" type="line"/>
+      <point x="192" y="228" type="line"/>
+      <point x="192" y="299" type="line"/>
+      <point x="132" y="299" type="line"/>
+    </contour>
+    <contour>
+      <point x="452" y="219" type="line"/>
+      <point x="512" y="219" type="line"/>
+      <point x="512" y="286" type="line"/>
+      <point x="452" y="286" type="line"/>
+    </contour>
+    <component base="serif_sup_izq" xOffset="10"/>
+    <component base="serif_sup_der" xOffset="10"/>
+    <component base="serif_sup_izq" xOffset="330"/>
+    <component base="serif_sup_der" xOffset="330"/>
+    <component base="ataque_n" xScale="-1" yScale="-1" xOffset="634" yOffset="510"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCCPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

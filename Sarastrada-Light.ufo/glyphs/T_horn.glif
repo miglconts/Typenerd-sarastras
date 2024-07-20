@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thorn" format="2">
+  <advance width="538"/>
+  <unicode hex="00DE"/>
+  <anchor x="226" y="680" name="top"/>
+  <outline>
+    <contour>
+      <point x="297" y="170" type="curve" smooth="yes"/>
+      <point x="395" y="170"/>
+      <point x="488" y="221"/>
+      <point x="488" y="390" type="curve" smooth="yes"/>
+      <point x="488" y="521"/>
+      <point x="417" y="610"/>
+      <point x="297" y="610" type="curve" smooth="yes"/>
+      <point x="183" y="610"/>
+      <point x="95" y="530"/>
+      <point x="95" y="431" type="curve" smooth="yes"/>
+      <point x="95" y="421"/>
+      <point x="96" y="348"/>
+      <point x="96" y="348" type="curve"/>
+      <point x="96" y="264"/>
+      <point x="129" y="170"/>
+    </contour>
+    <contour>
+      <point x="149" y="0" type="curve"/>
+      <point x="149" y="50" type="line"/>
+      <point x="123" y="50"/>
+      <point x="107" y="61"/>
+      <point x="107" y="96" type="curve"/>
+      <point x="92" y="96" type="line"/>
+      <point x="92" y="96"/>
+      <point x="92" y="55"/>
+      <point x="92" y="45" type="curve" smooth="yes"/>
+      <point x="92" y="13"/>
+      <point x="124" y="0"/>
+    </contour>
+    <contour>
+      <point x="92" y="83" type="line"/>
+      <point x="107" y="83" type="line"/>
+      <point x="107" y="605" type="line"/>
+      <point x="92" y="605" type="line"/>
+    </contour>
+    <contour>
+      <point x="284" y="190" type="curve" smooth="yes"/>
+      <point x="167" y="190"/>
+      <point x="107" y="256"/>
+      <point x="107" y="359" type="curve" smooth="yes"/>
+      <point x="107" y="364"/>
+      <point x="107" y="410"/>
+      <point x="107" y="439" type="curve" smooth="yes"/>
+      <point x="107" y="517"/>
+      <point x="183" y="560"/>
+      <point x="284" y="560" type="curve" smooth="yes"/>
+      <point x="395" y="560"/>
+      <point x="473" y="517"/>
+      <point x="473" y="375" type="curve" smooth="yes"/>
+      <point x="473" y="253"/>
+      <point x="395" y="190"/>
+    </contour>
+    <contour>
+      <point x="92" y="598" type="curve"/>
+      <point x="107" y="598" type="line"/>
+      <point x="107" y="598"/>
+      <point x="107" y="631"/>
+      <point x="107" y="645" type="curve" smooth="yes"/>
+      <point x="107" y="697"/>
+      <point x="104" y="750"/>
+      <point x="50" y="750" type="curve"/>
+      <point x="50" y="693" type="line"/>
+      <point x="85" y="693"/>
+      <point x="92" y="657"/>
+    </contour>
+    <component base="serif_inf_izq" xOffset="-48"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPPPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

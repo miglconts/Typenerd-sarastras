@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="k" format="2">
+  <advance width="550"/>
+  <unicode hex="006B"/>
+  <anchor x="266" y="0" name="bottom"/>
+  <anchor x="266" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="256" y="-10" type="line"/>
+      <point x="338" y="-10"/>
+      <point x="418" y="19"/>
+      <point x="418" y="106" type="curve"/>
+      <point x="358" y="106" type="line"/>
+      <point x="358" y="19"/>
+      <point x="440" y="-10"/>
+      <point x="520" y="-10" type="curve"/>
+      <point x="520" y="190" type="line"/>
+      <point x="311" y="190"/>
+      <point x="162" y="357"/>
+      <point x="162" y="422" type="curve"/>
+      <point x="132" y="291" type="line"/>
+      <point x="133" y="291"/>
+      <point x="341" y="177"/>
+      <point x="341" y="149" type="curve"/>
+      <point x="381" y="190" type="line"/>
+      <point x="256" y="190" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="-10" type="line"/>
+      <point x="169" y="-10"/>
+      <point x="192" y="55"/>
+      <point x="192" y="143" type="curve" smooth="yes"/>
+      <point x="192" y="146"/>
+      <point x="192" y="236"/>
+      <point x="192" y="236" type="curve"/>
+      <point x="192" y="236"/>
+      <point x="132" y="236"/>
+      <point x="132" y="236" type="curve" smooth="yes"/>
+      <point x="132" y="201"/>
+      <point x="116" y="190"/>
+      <point x="30" y="190" type="curve"/>
+    </contour>
+    <contour>
+      <point x="132" y="217" type="line"/>
+      <point x="192" y="217" type="line"/>
+      <point x="192" y="629" type="line"/>
+      <point x="132" y="629" type="line"/>
+    </contour>
+    <contour>
+      <point x="334" y="223" type="line"/>
+      <point x="334" y="275"/>
+      <point x="438" y="332"/>
+      <point x="520" y="332" type="curve"/>
+      <point x="520" y="532" type="line"/>
+      <point x="445" y="532"/>
+      <point x="358" y="507"/>
+      <point x="358" y="416" type="curve"/>
+      <point x="418" y="416" type="line"/>
+      <point x="418" y="507"/>
+      <point x="328" y="532"/>
+      <point x="256" y="532" type="curve"/>
+      <point x="256" y="332" type="line"/>
+      <point x="381" y="332" type="line"/>
+      <point x="341" y="373" type="line"/>
+      <point x="341" y="361"/>
+      <point x="277" y="282"/>
+      <point x="277" y="261" type="curve"/>
+    </contour>
+    <component base="serif_sup_der" xOffset="10" yOffset="230"/>
+    <component base="serif_sup_izq" xOffset="10" yOffset="230"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

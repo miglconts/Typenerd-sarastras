@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="serif_inf_der" format="2">
+  <advance width="304"/>
+  <outline>
+    <contour>
+      <point x="122" y="284" type="curve"/>
+      <point x="122" y="284"/>
+      <point x="122" y="166"/>
+      <point x="122" y="107" type="curve"/>
+      <point x="284" y="-1" type="line"/>
+      <point x="284" y="118" type="line"/>
+      <point x="198" y="118"/>
+      <point x="182" y="129"/>
+      <point x="182" y="284" type="curve" smooth="yes"/>
+      <point x="182" y="284"/>
+      <point x="122" y="284"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

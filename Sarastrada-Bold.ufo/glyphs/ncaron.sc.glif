@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ncaron.sc" format="2">
+  <advance height="980" width="664"/>
+  <anchor x="351" y="0" name="bottom"/>
+  <anchor x="336" y="771" name="top"/>
+  <outline>
+    <component base="N.sc"/>
+    <component base="caroncomb" xOffset="154" yOffset="60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

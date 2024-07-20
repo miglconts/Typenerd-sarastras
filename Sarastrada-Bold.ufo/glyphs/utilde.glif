@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="utilde" format="2">
+  <advance height="980" width="644"/>
+  <unicode hex="0169"/>
+  <anchor x="322" y="0" name="bottom"/>
+  <anchor x="614" y="-2" name="ogonek"/>
+  <anchor x="322" y="716" name="top"/>
+  <anchor x="614" y="520" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="tildecomb" xOffset="93"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

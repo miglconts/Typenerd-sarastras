@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblright" format="2">
+  <advance width="535"/>
+  <unicode hex="201D"/>
+  <outline>
+    <component base="quoteleft" xScale="-1" xOffset="285"/>
+    <component base="quoteleft" xScale="-1" xOffset="544"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

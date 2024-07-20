@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute" format="2">
+  <advance height="980" width="680"/>
+  <unicode hex="01FA"/>
+  <anchor x="342" y="0" name="bottom"/>
+  <anchor x="599" y="-1" name="ogonek"/>
+  <anchor x="336" y="961" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="ringcomb" xOffset="211" yOffset="160"/>
+    <component base="acutecomb" xOffset="304" yOffset="307"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

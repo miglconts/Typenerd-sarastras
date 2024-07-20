@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar.sc" format="2">
+  <advance width="568"/>
+  <anchor x="284" y="340" name="_center"/>
+  <anchor x="283" y="20" name="bottom"/>
+  <anchor x="284" y="340" name="center"/>
+  <anchor x="284" y="580" name="top"/>
+  <outline>
+    <contour>
+      <point x="32" y="260" type="line"/>
+      <point x="537" y="261" type="line"/>
+      <point x="537" y="327" type="line"/>
+      <point x="32" y="326" type="line"/>
+    </contour>
+    <component base="T.sc"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

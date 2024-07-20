@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="softhyphen" format="2">
+  <advance width="297"/>
+  <unicode hex="00AD"/>
+  <outline>
+    <contour>
+      <point x="50" y="302" type="curve"/>
+      <point x="247" y="302" type="line"/>
+      <point x="247" y="321"/>
+      <point x="238" y="330"/>
+      <point x="229" y="330" type="curve"/>
+      <point x="229" y="318" type="line"/>
+      <point x="238" y="318"/>
+      <point x="247" y="326"/>
+      <point x="247" y="347" type="curve"/>
+      <point x="50" y="347" type="line"/>
+      <point x="50" y="326"/>
+      <point x="59" y="318"/>
+      <point x="68" y="318" type="curve"/>
+      <point x="68" y="330" type="line"/>
+      <point x="59" y="330"/>
+      <point x="50" y="321"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>hyphen</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>hyphen</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

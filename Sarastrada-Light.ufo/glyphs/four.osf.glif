@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.osf" format="2">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="88" y="65" type="line"/>
+      <point x="447" y="521" type="line"/>
+      <point x="434" y="531" type="line"/>
+      <point x="75" y="75" type="line"/>
+    </contour>
+    <contour>
+      <point x="75" y="25" type="line"/>
+      <point x="449" y="25" type="line"/>
+      <point x="449" y="75" type="line"/>
+      <point x="75" y="75" type="line"/>
+    </contour>
+    <contour>
+      <point x="491" y="25" type="curve"/>
+      <point x="491" y="75" type="line"/>
+      <point x="434" y="75" type="line"/>
+      <point x="434" y="74" type="line"/>
+      <point x="434" y="49"/>
+      <point x="457" y="25"/>
+    </contour>
+    <contour>
+      <point x="434" y="-196" type="line"/>
+      <point x="449" y="-196" type="line"/>
+      <point x="449" y="531" type="line"/>
+      <point x="434" y="531" type="line"/>
+    </contour>
+    <component base="serif_inf_der" xOffset="294" yOffset="-230"/>
+    <component base="serif_inf_izq" xOffset="294" yOffset="-230"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>x</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>i</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

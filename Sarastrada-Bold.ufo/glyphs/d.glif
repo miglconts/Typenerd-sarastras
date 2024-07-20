@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d" format="2">
+  <advance width="551"/>
+  <unicode hex="0064"/>
+  <anchor x="269" y="0" name="bottom"/>
+  <anchor x="387" y="476" name="center"/>
+  <anchor x="143" y="520" name="top"/>
+  <anchor x="501" y="520" name="topright"/>
+  <outline>
+    <contour>
+      <point x="491" y="0" type="line"/>
+      <point x="406" y="0"/>
+      <point x="359" y="85"/>
+      <point x="359" y="240" type="curve"/>
+      <point x="359" y="246" type="line"/>
+      <point x="419" y="246" type="line"/>
+      <point x="419" y="211"/>
+      <point x="435" y="200"/>
+      <point x="491" y="200" type="curve"/>
+    </contour>
+    <contour>
+      <point x="359" y="228" type="line"/>
+      <point x="359" y="636" type="line"/>
+      <point x="419" y="636" type="line"/>
+      <point x="419" y="228" type="line"/>
+    </contour>
+    <component base="serif_sup_der" xOffset="237" yOffset="230"/>
+    <component base="serif_sup_izq" xOffset="237" yOffset="230"/>
+    <component base="aro_min" xScale="-1" xOffset="389"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>o</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>l</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

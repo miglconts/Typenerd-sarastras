@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="punto_ies" format="2">
+  <advance width="304"/>
+  <outline>
+    <contour>
+      <point x="147" y="532" type="curve" smooth="yes"/>
+      <point x="207" y="532"/>
+      <point x="256" y="581"/>
+      <point x="256" y="641" type="curve" smooth="yes"/>
+      <point x="256" y="701"/>
+      <point x="207" y="750"/>
+      <point x="147" y="750" type="curve" smooth="yes"/>
+      <point x="87" y="750"/>
+      <point x="38" y="701"/>
+      <point x="38" y="641" type="curve" smooth="yes"/>
+      <point x="38" y="581"/>
+      <point x="87" y="532"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

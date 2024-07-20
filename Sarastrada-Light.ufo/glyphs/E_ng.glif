@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
+  <advance width="716"/>
+  <unicode hex="014A"/>
+  <anchor x="381" y="0" name="bottom"/>
+  <anchor x="387" y="653" name="top"/>
+  <outline>
+    <contour>
+      <point x="574" y="0" type="curve"/>
+      <point x="574" y="50" type="line"/>
+      <point x="440" y="50"/>
+      <point x="382" y="76"/>
+      <point x="369" y="312" type="curve" smooth="yes"/>
+      <point x="353" y="606"/>
+      <point x="327" y="680"/>
+      <point x="110" y="680" type="curve"/>
+      <point x="110" y="630" type="line"/>
+      <point x="298" y="630"/>
+      <point x="341" y="583"/>
+      <point x="355" y="317" type="curve" smooth="yes"/>
+      <point x="369" y="50"/>
+      <point x="412" y="0"/>
+    </contour>
+    <contour>
+      <point x="517" y="-230" type="curve"/>
+      <point x="571" y="-230"/>
+      <point x="574" y="-177"/>
+      <point x="574" y="-125" type="curve" smooth="yes"/>
+      <point x="574" y="-78" type="line"/>
+      <point x="559" y="-78" type="line"/>
+      <point x="559" y="-137"/>
+      <point x="552" y="-173"/>
+      <point x="517" y="-173" type="curve"/>
+      <point x="517" y="-192"/>
+      <point x="517" y="-211"/>
+    </contour>
+    <contour>
+      <point x="142" y="60" type="line"/>
+      <point x="157" y="60" type="line"/>
+      <point x="157" y="640" type="line"/>
+      <point x="142" y="640" type="line"/>
+    </contour>
+    <contour>
+      <point x="559" y="-87" type="line"/>
+      <point x="574" y="-87" type="line"/>
+      <point x="574" y="595" type="line"/>
+      <point x="559" y="595" type="line"/>
+    </contour>
+    <component base="serif_inf_der" xOffset="2"/>
+    <component base="serif_inf_izq" xOffset="2"/>
+    <component base="serif_sup_izq" xOffset="422" yOffset="160"/>
+    <component base="serif_sup_der" xOffset="392" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCPPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="v" format="2">
+  <advance height="980" width="608"/>
+  <unicode hex="0076"/>
+  <outline>
+    <component base="serif_sup_izq"/>
+    <component base="serif_sup_der" xOffset="304"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="604"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="122" y="49" type="line"/>
+      <point x="182" y="49" type="line"/>
+      <point x="182" y="461" type="line"/>
+      <point x="122" y="461" type="line"/>
+    </contour>
+    <contour>
+      <point x="422" y="106" type="line"/>
+      <point x="422" y="53"/>
+      <point x="469" y="-2"/>
+      <point x="584" y="-2" type="curve"/>
+      <point x="584" y="198" type="line"/>
+      <point x="422" y="198" type="line"/>
+    </contour>
+    <contour>
+      <point x="482" y="198" type="line"/>
+      <point x="482" y="198"/>
+      <point x="324" y="198"/>
+      <point x="320" y="198" type="curve"/>
+      <point x="320" y="-2" type="line"/>
+      <point x="435" y="-2"/>
+      <point x="482" y="53"/>
+      <point x="482" y="106" type="curve"/>
+    </contour>
+    <contour>
+      <point x="422" y="572" type="curve"/>
+      <point x="422" y="480" type="line"/>
+      <point x="584" y="480" type="line"/>
+      <point x="584" y="680" type="line"/>
+      <point x="469" y="680"/>
+      <point x="422" y="625"/>
+    </contour>
+    <contour>
+      <point x="482" y="480" type="curve"/>
+      <point x="482" y="572" type="line"/>
+      <point x="482" y="625"/>
+      <point x="435" y="680"/>
+      <point x="320" y="680" type="curve"/>
+      <point x="320" y="480" type="line"/>
+      <point x="324" y="480"/>
+      <point x="482" y="480"/>
+    </contour>
+    <contour>
+      <point x="500" y="481" type="line"/>
+      <point x="464" y="538" type="line"/>
+      <point x="132" y="296" type="line"/>
+      <point x="166" y="238" type="line"/>
+    </contour>
+    <contour>
+      <point x="291" y="357" type="line"/>
+      <point x="459" y="137" type="line"/>
+      <point x="505" y="175" type="line"/>
+      <point x="342" y="389" type="line"/>
+    </contour>
+    <component base="serif_sup_izq" yOffset="160"/>
+    <component base="serif_sup_der" yOffset="160"/>
+    <component base="serif_inf_der"/>
+    <component base="serif_inf_izq"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCPPPPPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

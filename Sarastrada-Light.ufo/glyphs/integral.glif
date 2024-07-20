@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="integral" format="2">
+  <advance width="480"/>
+  <unicode hex="222B"/>
+  <outline>
+    <contour>
+      <point x="40" y="-233" type="line"/>
+      <point x="142" y="-233"/>
+      <point x="189" y="-149"/>
+      <point x="236" y="111" type="curve"/>
+      <point x="221" y="111" type="line"/>
+      <point x="185" y="-97"/>
+      <point x="156" y="-183"/>
+      <point x="50" y="-183" type="curve"/>
+    </contour>
+    <contour>
+      <point x="221" y="111" type="line"/>
+      <point x="236" y="111" type="line"/>
+      <point x="293" y="443" type="line"/>
+      <point x="278" y="443" type="line"/>
+    </contour>
+    <contour>
+      <point x="274" y="421" type="curve"/>
+      <point x="290" y="422" type="line"/>
+      <point x="304" y="491"/>
+      <point x="316" y="641"/>
+      <point x="423" y="641" type="curve"/>
+      <point x="440" y="691" type="line"/>
+      <point x="342" y="691"/>
+      <point x="306" y="597"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

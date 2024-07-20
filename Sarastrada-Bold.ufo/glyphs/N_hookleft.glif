@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nhookleft" format="2">
+  <advance width="712"/>
+  <unicode hex="019D"/>
+  <anchor x="356" y="0" name="bottom"/>
+  <anchor x="349" y="680" name="top"/>
+  <outline>
+    <contour>
+      <point x="682" y="0" type="curve"/>
+      <point x="682" y="200" type="line"/>
+      <point x="504" y="200"/>
+      <point x="433" y="200"/>
+      <point x="410" y="351" type="curve" smooth="yes"/>
+      <point x="386" y="557"/>
+      <point x="386" y="680"/>
+      <point x="84" y="680" type="curve"/>
+      <point x="84" y="480" type="line"/>
+      <point x="296" y="480"/>
+      <point x="333" y="476"/>
+      <point x="363" y="316" type="curve" smooth="yes"/>
+      <point x="402" y="59"/>
+      <point x="422" y="10"/>
+    </contour>
+    <contour>
+      <point x="30" y="-230" type="curve"/>
+      <point x="155" y="-230"/>
+      <point x="202" y="-132"/>
+      <point x="197" y="24" type="curve"/>
+      <point x="197" y="94" type="line"/>
+      <point x="137" y="94" type="line"/>
+      <point x="137" y="-15"/>
+      <point x="112" y="-30"/>
+      <point x="30" y="-30" type="curve"/>
+      <point x="30" y="-97"/>
+      <point x="30" y="-163"/>
+    </contour>
+    <contour>
+      <point x="137" y="65" type="line"/>
+      <point x="197" y="65" type="line"/>
+      <point x="197" y="527" type="line"/>
+      <point x="137" y="527" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="95" type="line"/>
+      <point x="580" y="95" type="line"/>
+      <point x="580" y="587" type="line"/>
+      <point x="520" y="587" type="line"/>
+    </contour>
+    <component base="serif_sup_izq" xOffset="398" yOffset="160"/>
+    <component base="serif_sup_der" xOffset="398" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>N</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

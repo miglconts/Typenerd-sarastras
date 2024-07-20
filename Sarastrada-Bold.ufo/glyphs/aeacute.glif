@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aeacute" format="2">
+  <advance height="980" width="817"/>
+  <unicode hex="01FD"/>
+  <anchor x="407" y="0" name="bottom"/>
+  <anchor x="408" y="710" name="top"/>
+  <outline>
+    <component base="ae"/>
+    <component base="acutecomb" xOffset="345"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

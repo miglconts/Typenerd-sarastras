@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.sc" format="2">
+  <advance height="980" width="584"/>
+  <anchor x="314" y="0" name="bottom"/>
+  <anchor x="149" y="295" name="center"/>
+  <anchor x="149" y="580" name="top"/>
+  <anchor x="375" y="580" name="topright"/>
+  <outline>
+    <component base="L.sc"/>
+    <component base="strokeshortcomb" xOffset="58" yOffset="-101"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="604"/>
+  <unicode hex="004B"/>
+  <anchor x="302" y="0" name="bottom"/>
+  <anchor x="302" y="680" name="top"/>
+  <outline>
+    <contour>
+      <point x="122" y="49" type="line"/>
+      <point x="182" y="49" type="line"/>
+      <point x="182" y="461" type="line"/>
+      <point x="122" y="461" type="line"/>
+    </contour>
+    <contour>
+      <point x="132" y="393" type="line"/>
+      <point x="400" y="198" type="line"/>
+      <point x="320" y="198" type="line"/>
+      <point x="320" y="-2" type="line"/>
+      <point x="384" y="-2"/>
+      <point x="426" y="15"/>
+      <point x="452" y="39" type="curve"/>
+      <point x="478" y="15"/>
+      <point x="520" y="-2"/>
+      <point x="584" y="-2" type="curve"/>
+      <point x="584" y="198" type="line"/>
+      <point x="562" y="198" type="line"/>
+      <point x="438" y="198"/>
+      <point x="166" y="440"/>
+      <point x="166" y="440" type="curve"/>
+    </contour>
+    <contour>
+      <point x="291" y="321" type="line"/>
+      <point x="342" y="289" type="line"/>
+      <point x="342" y="289"/>
+      <point x="459" y="480"/>
+      <point x="551" y="480" type="curve"/>
+      <point x="584" y="480" type="line"/>
+      <point x="584" y="680" type="line"/>
+      <point x="520" y="680"/>
+      <point x="478" y="663"/>
+      <point x="452" y="639" type="curve"/>
+      <point x="426" y="663"/>
+      <point x="384" y="680"/>
+      <point x="320" y="680" type="curve"/>
+      <point x="320" y="480" type="line"/>
+      <point x="412" y="480" type="line"/>
+    </contour>
+    <component base="serif_sup_izq" yOffset="160"/>
+    <component base="serif_sup_der" yOffset="160"/>
+    <component base="serif_inf_der"/>
+    <component base="serif_inf_izq"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

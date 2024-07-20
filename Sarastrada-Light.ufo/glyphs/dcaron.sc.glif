@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron.sc" format="2">
+  <advance height="980" width="639"/>
+  <anchor x="329" y="0" name="bottom"/>
+  <anchor x="329" y="340" name="center"/>
+  <anchor x="329" y="632" name="top"/>
+  <outline>
+    <component base="D.sc"/>
+    <component base="caroncomb" xOffset="179"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

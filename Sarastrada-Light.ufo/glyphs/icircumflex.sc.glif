@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icircumflex.sc" format="2">
+  <advance height="980" width="400"/>
+  <anchor x="200" y="-10" name="bottom"/>
+  <anchor x="260" y="13" name="ogonek"/>
+  <anchor x="200" y="727" name="top"/>
+  <anchor x="100" y="680" name="topleft"/>
+  <outline>
+    <component base="I.sc"/>
+    <component base="circumflexcomb" xOffset="50" yOffset="60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

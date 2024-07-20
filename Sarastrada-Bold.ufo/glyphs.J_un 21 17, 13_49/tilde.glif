@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde" format="2">
+  <advance width="600"/>
+  <unicode hex="02DC"/>
+  <anchor x="265" y="520" name="_top"/>
+  <outline>
+    <contour>
+      <point x="72" y="550" type="line"/>
+      <point x="72" y="611"/>
+      <point x="323" y="550"/>
+      <point x="323" y="635" type="curve"/>
+      <point x="265" y="635" type="line"/>
+      <point x="265" y="591"/>
+      <point x="335" y="550"/>
+      <point x="458" y="550" type="curve"/>
+      <point x="458" y="720" type="line"/>
+      <point x="458" y="680"/>
+      <point x="207" y="672"/>
+      <point x="207" y="635" type="curve"/>
+      <point x="265" y="635" type="line"/>
+      <point x="265" y="676"/>
+      <point x="195" y="720"/>
+      <point x="72" y="720" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

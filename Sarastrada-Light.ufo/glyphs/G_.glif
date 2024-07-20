@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="G" format="2">
+  <advance width="650"/>
+  <unicode hex="0047"/>
+  <anchor x="341" y="0" name="bottom"/>
+  <anchor x="348" y="650" name="top"/>
+  <outline>
+    <contour>
+      <point x="339" y="-10" type="curve" smooth="yes"/>
+      <point x="499" y="-10"/>
+      <point x="547" y="86"/>
+      <point x="553" y="320" type="curve"/>
+      <point x="540" y="310" type="line"/>
+      <point x="540" y="116"/>
+      <point x="498" y="40"/>
+      <point x="339" y="40" type="curve" smooth="yes"/>
+      <point x="187" y="40"/>
+      <point x="103" y="166"/>
+      <point x="103" y="339" type="curve" smooth="yes"/>
+      <point x="103" y="553"/>
+      <point x="177" y="640"/>
+      <point x="339" y="640" type="curve" smooth="yes"/>
+      <point x="498" y="640"/>
+      <point x="540" y="613"/>
+      <point x="540" y="599" type="curve"/>
+      <point x="540" y="599"/>
+      <point x="555" y="599"/>
+      <point x="555" y="599" type="curve"/>
+      <point x="555" y="638"/>
+      <point x="508" y="689"/>
+      <point x="339" y="690" type="curve" smooth="yes"/>
+      <point x="169" y="691"/>
+      <point x="90" y="578"/>
+      <point x="90" y="341" type="curve" smooth="yes"/>
+      <point x="90" y="136"/>
+      <point x="179" y="-10"/>
+    </contour>
+    <contour>
+      <point x="540" y="0" type="line"/>
+      <point x="560" y="0" type="line"/>
+      <point x="560" y="320" type="line"/>
+      <point x="540" y="320" type="line"/>
+    </contour>
+    <contour>
+      <point x="313" y="295" type="line"/>
+      <point x="560" y="295" type="line"/>
+      <point x="560" y="320" type="line"/>
+      <point x="313" y="320" type="line"/>
+    </contour>
+    <contour>
+      <point x="555" y="599" type="line"/>
+      <point x="555" y="690" type="line"/>
+      <point x="532" y="690"/>
+      <point x="501" y="665"/>
+      <point x="501" y="641" type="curve"/>
+      <point x="553" y="606" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>O</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

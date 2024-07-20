@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide" format="2">
+  <advance width="600"/>
+  <unicode hex="00F7"/>
+  <outline>
+    <contour>
+      <point x="80" y="196" type="curve"/>
+      <point x="561" y="196" type="line"/>
+      <point x="561" y="249"/>
+      <point x="536" y="271"/>
+      <point x="511" y="271" type="curve"/>
+      <point x="511" y="243" type="line"/>
+      <point x="536" y="243"/>
+      <point x="561" y="265"/>
+      <point x="561" y="318" type="curve"/>
+      <point x="80" y="318" type="line"/>
+      <point x="80" y="265"/>
+      <point x="105" y="243"/>
+      <point x="130" y="243" type="curve"/>
+      <point x="130" y="271" type="line"/>
+      <point x="105" y="271"/>
+      <point x="80" y="249"/>
+    </contour>
+    <component base="period" xScale="0.8" yScale="0.8" xOffset="213" yOffset="366"/>
+    <component base="period" xScale="0.8" yScale="0.8" xOffset="213" yOffset="-5"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

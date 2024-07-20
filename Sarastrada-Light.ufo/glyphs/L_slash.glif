@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lslash" format="2">
+  <advance height="980" width="569"/>
+  <unicode hex="0141"/>
+  <anchor x="239" y="0" name="bottom"/>
+  <anchor x="147" y="370" name="center"/>
+  <anchor x="149" y="650" name="top"/>
+  <anchor x="375" y="680" name="topright"/>
+  <outline>
+    <component base="L"/>
+    <component base="strokeshortcomb" xOffset="56" yOffset="-26"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

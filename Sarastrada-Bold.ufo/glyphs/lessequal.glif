@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lessequal" format="2">
+  <advance width="579"/>
+  <unicode hex="2264"/>
+  <guideline x="460" y="460" angle="0"/>
+  <outline>
+    <component base="greaterequal" xScale="-1" xOffset="581"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

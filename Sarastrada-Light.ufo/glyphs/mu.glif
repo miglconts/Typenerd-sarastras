@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mu" format="2">
+  <advance width="628"/>
+  <unicode hex="03BC"/>
+  <anchor x="293" y="0" name="bottom"/>
+  <anchor x="543" y="10" name="ogonek"/>
+  <anchor x="275" y="520" name="top"/>
+  <anchor x="585" y="520" name="topright"/>
+  <outline>
+    <contour>
+      <point x="319" y="-10" type="curve" smooth="yes"/>
+      <point x="458" y="-10"/>
+      <point x="501" y="103"/>
+      <point x="501" y="160" type="curve"/>
+      <point x="486" y="160" type="line"/>
+      <point x="486" y="82"/>
+      <point x="428" y="40"/>
+      <point x="325" y="40" type="curve" smooth="yes"/>
+      <point x="213" y="40"/>
+      <point x="137" y="76"/>
+      <point x="137" y="180" type="curve"/>
+      <point x="122" y="180" type="line"/>
+      <point x="122" y="168" type="line" smooth="yes"/>
+      <point x="122" y="67"/>
+      <point x="179" y="-10"/>
+    </contour>
+    <contour>
+      <point x="122" y="-232" type="line"/>
+      <point x="137" y="-232" type="line"/>
+      <point x="137" y="435" type="line"/>
+      <point x="122" y="435" type="line"/>
+    </contour>
+    <contour>
+      <point x="486" y="38" type="line"/>
+      <point x="501" y="38" type="line"/>
+      <point x="501" y="435" type="line"/>
+      <point x="486" y="435" type="line"/>
+    </contour>
+    <component base="serif_sup_izq" xOffset="-15"/>
+    <component base="serif_sup_der" xOffset="-45"/>
+    <component base="serif_sup_izq" xOffset="349"/>
+    <component base="serif_sup_der" xOffset="319"/>
+    <component base="serif_inf_der" xOffset="346"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>u</string>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCCPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

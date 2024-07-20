@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iacute_Jacute" format="2">
+  <advance height="980" width="498"/>
+  <anchor x="150" y="0" name="bottom_1"/>
+  <anchor x="399" y="0" name="bottom_2"/>
+  <anchor x="150" y="376" name="center"/>
+  <anchor x="149" y="690" name="top_1"/>
+  <anchor x="399" y="520" name="top_2"/>
+  <anchor x="199" y="750" name="topright"/>
+  <outline>
+    <component base="lacute"/>
+    <component base="jdotless" xOffset="299"/>
+    <component base="acute" xOffset="359"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Iacute</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Jacute</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

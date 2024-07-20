@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i" format="2">
+  <advance width="269"/>
+  <unicode hex="0069"/>
+  <anchor x="135" y="0" name="bottom"/>
+  <anchor x="135" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="127" y="83" type="line"/>
+      <point x="142" y="83" type="line"/>
+      <point x="142" y="435" type="line"/>
+      <point x="127" y="435" type="line"/>
+    </contour>
+    <component base="serif_sup_izq" xOffset="-10"/>
+    <component base="serif_sup_der" xOffset="-40"/>
+    <component base="serif_inf_der" xOffset="-13"/>
+    <component base="serif_inf_izq" xOffset="-13"/>
+    <component base="dotaccent" xOffset="72"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCCCCP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

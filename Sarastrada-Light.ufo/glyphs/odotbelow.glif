@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="odotbelow" format="2">
+  <advance height="980" width="562"/>
+  <unicode hex="1ECD"/>
+  <anchor x="281" y="-217" name="bottom"/>
+  <anchor x="281" y="260" name="center"/>
+  <anchor x="284" y="8" name="ogonek"/>
+  <anchor x="283" y="583" name="top"/>
+  <anchor x="482" y="520" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="dotbelowcomb" xOffset="218"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

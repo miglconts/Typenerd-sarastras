@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T" format="2">
+  <advance width="568"/>
+  <unicode hex="0054"/>
+  <anchor x="283" y="0" name="bottom"/>
+  <anchor x="284" y="340" name="center"/>
+  <anchor x="284" y="680" name="top"/>
+  <outline>
+    <contour>
+      <point x="376" y="320" type="line"/>
+      <point x="538" y="320" type="line"/>
+      <point x="538" y="520" type="line"/>
+      <point x="423" y="520"/>
+      <point x="376" y="465"/>
+      <point x="376" y="412" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="254" y="166" type="line"/>
+      <point x="314" y="166" type="line"/>
+      <point x="314" y="347" type="line"/>
+      <point x="254" y="347" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="320" type="line"/>
+      <point x="192" y="320" type="line"/>
+      <point x="192" y="412" type="line" smooth="yes"/>
+      <point x="192" y="465"/>
+      <point x="145" y="520"/>
+      <point x="30" y="520" type="curve"/>
+    </contour>
+    <contour>
+      <point x="254" y="264" type="curve"/>
+      <point x="314" y="264" type="line"/>
+      <point x="314" y="309"/>
+      <point x="330" y="320"/>
+      <point x="416" y="320" type="curve"/>
+      <point x="314" y="378" type="line"/>
+      <point x="254" y="378" type="line"/>
+      <point x="152" y="320" type="line"/>
+      <point x="238" y="320"/>
+      <point x="254" y="309"/>
+    </contour>
+    <contour>
+      <point x="132" y="320" type="line"/>
+      <point x="253" y="320" type="line"/>
+      <point x="254" y="520" type="line"/>
+      <point x="179" y="520"/>
+      <point x="132" y="465"/>
+      <point x="132" y="412" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="249" y="320" type="line"/>
+      <point x="319" y="320" type="line"/>
+      <point x="319" y="520" type="line"/>
+      <point x="249" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="320" type="line"/>
+      <point x="436" y="320" type="line"/>
+      <point x="436" y="412" type="line" smooth="yes"/>
+      <point x="436" y="465"/>
+      <point x="389" y="520"/>
+      <point x="314" y="520" type="curve"/>
+    </contour>
+    <contour>
+      <point x="30" y="368" type="line"/>
+      <point x="30" y="270" type="line"/>
+      <point x="90" y="270" type="line"/>
+      <point x="90" y="368" type="line"/>
+    </contour>
+    <contour>
+      <point x="478" y="368" type="line"/>
+      <point x="478" y="270" type="line"/>
+      <point x="538" y="270" type="line"/>
+      <point x="538" y="368" type="line"/>
+    </contour>
+    <component base="serif_inf_der" xOffset="132"/>
+    <component base="serif_inf_izq" xOffset="132"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPPPPPPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

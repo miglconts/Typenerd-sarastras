@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance width="600"/>
+  <unicode hex="0034"/>
+  <guideline x="104" y="538" angle="67.8337"/>
+  <anchor x="442" y="0" name="bottom"/>
+  <anchor x="442" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="340" y="166" type="line"/>
+      <point x="400" y="166" type="line"/>
+      <point x="400" y="750" type="line"/>
+      <point x="340" y="750" type="line"/>
+    </contour>
+    <contour>
+      <point x="398" y="704" type="curve"/>
+      <point x="340" y="750" type="line"/>
+      <point x="340" y="750"/>
+      <point x="205" y="455"/>
+      <point x="103" y="455" type="curve"/>
+      <point x="103" y="255" type="line"/>
+      <point x="504" y="255" type="line"/>
+      <point x="504" y="455" type="line"/>
+      <point x="181" y="455" type="line"/>
+      <point x="205" y="421" type="line"/>
+      <point x="205" y="459"/>
+      <point x="398" y="704"/>
+    </contour>
+    <component base="serif_inf_der" xOffset="219" yOffset="-10"/>
+    <component base="serif_inf_izq" xOffset="219" yOffset="-10"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

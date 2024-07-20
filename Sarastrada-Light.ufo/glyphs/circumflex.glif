@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex" format="2">
+  <advance width="300"/>
+  <unicode hex="02C6"/>
+  <anchor x="150" y="520" name="_top"/>
+  <outline>
+    <contour>
+      <point x="20" y="626" type="line"/>
+      <point x="91" y="626"/>
+      <point x="161" y="669"/>
+      <point x="161" y="712" type="curve"/>
+      <point x="137" y="712" type="line"/>
+      <point x="137" y="669"/>
+      <point x="209" y="626"/>
+      <point x="280" y="626" type="curve"/>
+      <point x="280" y="640" type="line"/>
+      <point x="170" y="715" type="line"/>
+      <point x="128" y="715" type="line"/>
+      <point x="20" y="640" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

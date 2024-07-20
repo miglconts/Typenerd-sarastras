@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one" format="2">
+  <advance width="392"/>
+  <unicode hex="0031"/>
+  <anchor x="222" y="0" name="bottom"/>
+  <anchor x="222" y="520" name="top"/>
+  <outline>
+    <contour>
+      <point x="191" y="168" type="line"/>
+      <point x="251" y="168" type="line"/>
+      <point x="251" y="682" type="line"/>
+      <point x="191" y="682" type="line"/>
+    </contour>
+    <contour>
+      <point x="40" y="437" type="line"/>
+      <point x="251" y="437" type="line"/>
+      <point x="251" y="680" type="line"/>
+      <point x="140" y="680" type="line"/>
+    </contour>
+    <contour>
+      <point x="191" y="361" type="curve"/>
+      <point x="251" y="361" type="line"/>
+      <point x="251" y="495" type="line"/>
+      <point x="191" y="495" type="line"/>
+      <point x="100" y="437" type="line"/>
+      <point x="162" y="437"/>
+      <point x="191" y="409"/>
+    </contour>
+    <component base="serif_inf_der" xOffset="69"/>
+    <component base="serif_inf_izq" xOffset="69"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCPPP</string>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

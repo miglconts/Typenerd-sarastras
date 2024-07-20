@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute.sc" format="2">
+  <advance height="980" width="543"/>
+  <anchor x="287" y="0" name="bottom"/>
+  <anchor x="161" y="297" name="center"/>
+  <anchor x="163" y="770" name="top"/>
+  <anchor x="263" y="680" name="topright"/>
+  <outline>
+    <component base="L.sc"/>
+    <component base="acutecomb" xOffset="100" yOffset="60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>

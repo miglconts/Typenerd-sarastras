@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nacute.sc" format="2">
+  <advance height="980" width="706"/>
+  <anchor x="381" y="0" name="bottom"/>
+  <anchor x="337" y="714" name="top"/>
+  <outline>
+    <component base="N.sc"/>
+    <component base="acutecomb" xOffset="305" yOffset="60"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>750</integer>
+    </dict>
+  </lib>
+</glyph>
